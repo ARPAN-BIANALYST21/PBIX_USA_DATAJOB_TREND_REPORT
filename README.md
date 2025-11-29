@@ -113,6 +113,7 @@ Provides actionable recommendations, such as:
 2. 13 DAX Measures created for cleaner KPI computation and reusable metrics
 
 
+
 📊 DAX Measures Table :
 
 Measure Name	                               DAX Code
@@ -142,6 +143,7 @@ Measure Name	                               DAX Code
 12. Total_Industries = DISTINCTCOUNT(Data_Tab[Industry])
 
 13. Total_Jobs = COUNT(Data_Tab[Job_Title])
+    
 
 
 🧩 Key Insights :
@@ -161,6 +163,7 @@ Measure Name	                               DAX Code
 ✔ Senior Roles bag the highest salaries but have fewer openings
 
 
+
 🚀 Recommendations :
 
 1.Target states like CA, NY, IL for high job density
@@ -174,9 +177,11 @@ Measure Name	                               DAX Code
 5.Explore Nonprofit and Public Roles if seeking stability
 
 
+
 🙌 Acknowledgements :
 
 This project was developed using the dataset provided by Datamites Internship Team and Market Relevant BI tools to provide insights for job seekers, recruiters, and policy makers.
+
 
 👉 Here is the complete PDF link of the report : https://github.com/ARPAN-BIANALYST21/PBIX_USA_DATAJOB_TREND_REPORT/blob/5bf8e994d99f48b39e65082c9b195ffc54581ea0/USA-DATAJOB_TREND_REPORT.pdf
 
