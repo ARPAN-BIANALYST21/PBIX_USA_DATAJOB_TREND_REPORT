@@ -78,13 +78,13 @@ Columns / Features: 31
 ✔ Salary & Professional Insights  
 
 
-1.Highest salary locations: Chicago IL, San CA, Washington DC
+1. Highest salary locations: Chicago IL, San CA, Washington DC
 
-2.Seniority analysis showing Intermediate roles dominate job openings (519)
+2. Seniority analysis showing Intermediate roles dominate job openings (519)
 
-3.Average salary differences by education level
+3. Average salary differences by education level
 
-4.Employee satisfaction by role
+4. Employee satisfaction by role
 
 
 ✔ Hiring Trends & Ownership Insights 
