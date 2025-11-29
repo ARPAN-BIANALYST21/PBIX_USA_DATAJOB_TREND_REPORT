@@ -176,7 +176,7 @@ Measure Name	                               DAX Code
 
 🙌 Acknowledgements :
 
-This project was developed using the dataset provided by Datamites Internship Team and modern BI tools to provide insights for job seekers, recruiters, and policy makers.
+This project was developed using the dataset provided by Datamites Internship Team and Market Relevant BI tools to provide insights for job seekers, recruiters, and policy makers.
 
 👉 Here is the complete PDF link of the report : https://github.com/ARPAN-BIANALYST21/PBIX_USA_DATAJOB_TREND_REPORT/blob/5bf8e994d99f48b39e65082c9b195ffc54581ea0/USA-DATAJOB_TREND_REPORT.pdf
 
