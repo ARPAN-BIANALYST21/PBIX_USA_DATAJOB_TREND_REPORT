@@ -144,7 +144,7 @@ Measure Name	                               DAX Code
 13. Total_Jobs = COUNT(Data_Tab[Job_Title])
 
 
-🧩 Key Insights 
+🧩 Key Insights :
 
 ✔ California & New York dominate hiring
 
@@ -161,7 +161,7 @@ Measure Name	                               DAX Code
 ✔ Senior Roles bag the highest salaries but have fewer openings
 
 
-🚀 Recommendations 
+🚀 Recommendations :
 
 1.Target states like CA, NY, IL for high job density
 
@@ -174,10 +174,10 @@ Measure Name	                               DAX Code
 5.Explore Nonprofit and Public Roles if seeking stability
 
 
-🙌 Acknowledgements
+🙌 Acknowledgements :
 
 This project was developed using the dataset provided by Datamites Internship Team and modern BI tools to provide insights for job seekers, recruiters, and policy makers.
 
-👉 Here is the complete PDF link of the report: 
+👉 Here is the complete PDF link of the report :
 
 
