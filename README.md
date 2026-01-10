@@ -75,7 +75,7 @@ Job Title, Salary Ranges, Company Name, Industry, Location, Seniority, Ownership
 | Public Sector          | Moderate Opportunities                    |
 | Government             | Limited Openings                          |
 | Education Institutions | Lowest Hiring Volume                      |
-| Skill Demand           | Data Scientists & Data Engineers Needed   |
+| Skills Demand          | Data Scientists & Data Engineers          |
 
 
 📐 DATA MODEL & DESIGN APPROACH
